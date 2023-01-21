@@ -39,7 +39,7 @@ import MDBox from "/components/MDBox";
 import config from "/config";
 
 // NextJS Material Dashboard 2 PRO examples
-import Sidenav from "/components/Sidenav";
+import Sidenav from "/components/side-navbar";
 import Configurator from "/examples/Configurator";
 
 // NextJS Material Dashboard 2 PRO themes
